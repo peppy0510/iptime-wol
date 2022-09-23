@@ -1,0 +1,13 @@
+## IPTIME WOL
+
+`settings.json`
+
+```json
+{
+    "hostname": "http://192.168.0.1",
+    "username": "username",
+    "password": "password",
+    "macaddress": "00-00-00-00-00-00",
+    "productname": "A1004"
+}
+```

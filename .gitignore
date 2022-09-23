@@ -1,0 +1,17 @@
+**/__pycache__
+*.db
+*.7z
+*.zip
+*.pyc
+*.pyo
+*.log
+*.sql
+*.bak
+*.pid
+*.sock
+*.sqlite
+*.sqlite3
+desktop.ini
+/settings.json
+.sublime-workspace
+*.sublime-workspace
